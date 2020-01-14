@@ -58,7 +58,7 @@ public class BackwardCompatibleExample {
 				System.out.println(readCustomer.toString());
 				System.out.println("First name: " + readCustomer.getFirstName());
 			}
-			System.out.println("Backword compatibility example complete");
+			System.out.println("Backward compatibility example complete");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
