@@ -47,7 +47,7 @@ public class BackwardCompatibleExample {
 		}
 
 
-		// Step2: read it from a file using V2 schema
+		// Step3: read it from a file using V2 schema
 		final DatumReader<CustomerV2> datumReader = new SpecificDatumReader<>(CustomerV2.class);
 		final DataFileReader<CustomerV2> dataFileReader;
 		try {
