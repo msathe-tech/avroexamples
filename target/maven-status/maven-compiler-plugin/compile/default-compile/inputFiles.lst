@@ -1,4 +1,5 @@
 /Users/msathe/IdeaProjects/avroexamples/target/generated-sources/avro/com/example/CustomerV2.java
+/Users/msathe/IdeaProjects/avroexamples/src/main/java/com/example/avro/evolution/ForwardCompatibleExample.java
 /Users/msathe/IdeaProjects/avroexamples/src/main/java/com/example/avro/evolution/BackwardCompatibleExample.java
 /Users/msathe/IdeaProjects/avroexamples/src/main/java/com/example/avro/specific/SpecificRecordExample.java
 /Users/msathe/IdeaProjects/avroexamples/src/main/java/com/example/avro/generic/GenericRecordExample.java
